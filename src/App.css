@@ -69,14 +69,11 @@ li:hover {
 
 .container {
   max-width: 1200px; /* Maximum width of the container */
-  margin: 0 auto; /* Centers the container horizontally */
+  margin: 50px auto; /* Centers the container horizontally */
   padding: 20px; /* Adds padding inside the container */
   border: 1px solid #ddd;
   border-radius: 8px; /* Rounds the corners of the container */
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  /* margin: 30px 0; */
   background-color: #fff; /* Sets the background color of the container */
-}
-
-.m {
-  margin: 30px;
 }

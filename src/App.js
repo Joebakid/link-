@@ -27,7 +27,7 @@ function App() {
   console.log(projects.id);
   return (
     <div className="App">
-      <p className="container m">
+      <p className="container ">
         {" "}
         Hello! I'm Joseph Bawo, and this page showcases a selection of my mini
         projects. Each project represents a unique challenge I’ve tackled and is
